@@ -1,2 +1,3 @@
 # Wine-Quality-Prediction
 Develop a Deeplearning Model for Wine Quality Prediction.
+This Project was done by me during my internship as an minor project...
